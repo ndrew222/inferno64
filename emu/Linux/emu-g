@@ -41,6 +41,7 @@ mod
 	crypt
 	ipints
 	loader
+	tls
 
 port
 	alloc
